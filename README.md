@@ -1,5 +1,4 @@
-# JiameiShi-bonus_deep_learning_time_series
-***Time Series Forecasting on the M4 Dataset***
+# ***Time Series Forecasting on the M4 Dataset***
 
 ***Methods***
 
